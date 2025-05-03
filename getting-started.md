@@ -9,7 +9,7 @@ In this beginner-friendly guide, I’ll walk you through what Git and GitHub are
 
 ----------
 
-## 💡 Git vs GitHub — What’s the Difference?
+## Git vs GitHub — What’s the Difference?
 
 Let’s clear up the confusion:
 
@@ -25,7 +25,7 @@ In simple terms:
 
 ----------
 
-## ✍️ Why Technical Writers Should Learn Git and GitHub
+## Why Technical Writers Should Learn Git and GitHub
 
 Even if you’re not writing code, Git and GitHub help you:
 
@@ -59,7 +59,7 @@ That’s your first step into the GitHub world! 🎉
 
 ### 2️⃣ Install Git
 
-#### 🔹 On Windows:
+####  On Windows:
 
 1.  Go to [https://git-scm.com/downloads](https://git-scm.com/downloads)
     
@@ -83,7 +83,7 @@ If you see the version number, that means it’s working!
 
 ----------
 
-#### 🔸 On Linux (Ubuntu/Debian):
+####  On Linux (Ubuntu/Debian):
 
 Open your terminal and run:
 
@@ -189,7 +189,7 @@ git push origin main
 
 ----------
 
-## 🧠 Common Git Terms (Made Easy)
+## Common Git Terms (Made Easy)
 
 -   `git add` – tells Git which file(s) you want to track
     
@@ -203,8 +203,5 @@ git push origin main
     
 
 ----------
-
-## Final Thoughts 💬
-
-Git and GitHub can seem intimidating at first, but once you try it a few times, it becomes second nature.
-Begin with your next article and keep practicing. Before long, you’ll be managing your portfolio like a pro. 🚀
+Git and GitHub can seem intimidating at first, but once you try them a few times, it becomes second nature.
+You can begin with your next article and keep practicing. Before long, you’ll be managing your portfolio like a pro. 🚀
