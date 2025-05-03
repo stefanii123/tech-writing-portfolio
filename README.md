@@ -6,8 +6,8 @@ Welcome! This repository contains beginner-friendly technical writing samples cr
 
 ## 📄 Articles
 
-### 1. [Getting Started with Git and GitHub](./getting-started-git-github.md)  
-A beginner’s guide to understanding and using Git and GitHub for version control and collaboration.
+### 1. [Getting Started with Git and GitHub](getting-started.md)
+ A beginner’s guide to understanding and using Git and GitHub for version control and collaboration.
 
 ---
 
