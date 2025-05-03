@@ -9,7 +9,7 @@ In this beginner-friendly guide, I’ll walk you through what Git and GitHub are
 
 ----------
 
-## Git vs GitHub — What’s the Difference?
+## Git vs GitHub - What’s the Difference?
 
 Let’s clear up the confusion:
 
@@ -63,14 +63,14 @@ That’s your first step into the GitHub world! 🎉
 
 1.  Go to [https://git-scm.com/downloads](https://git-scm.com/downloads)
     
-2.  Click the **Windows** download link
+2.  Click the **Windows** download link.
     
-3.  Run the installer — just leave the default settings
+3.  Run the installer. Leave the default settings as they are.
     
 4.  When prompted, select:  
     ✅ _“Git from the command line and also from 3rd-party software”_
     
-5.  Finish installation
+5.  Finish installation.
     
 
 Now open **Git Bash** from the Start menu and run:
@@ -141,7 +141,7 @@ You just created your first online project folder! 🙌
 
 Now, let’s bring that repo into your local machine.
 
-1.  On your repo page, click the green **Code** button → copy the HTTPS link
+1.  On your repo page, click the green **Code** button and copy the HTTPS link.
     
 2.  In your terminal or Git Bash, run:
     
